@@ -7,8 +7,7 @@ It converts long URLs into short links and redirects users to the original URL.
 
 ## 🌍 Live Demo
 
-👉 https://your-app.onrender.com
-*(replace with your actual Render URL)*
+👉 https://url-shortner-ji0b.onrender.com/
 
 ---
 
